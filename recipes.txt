@@ -6,5 +6,8 @@ Python
 Git
 spyder
 
+pycharm
+SQL
 
-Thank you
+
+Thank you :)
